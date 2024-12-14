@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34ABDF4E-0E4F-4110-9DC6-1F050F780A50}|HtmlSerializerProject\\HtmlSerializerProject.csproj|c:\\shira\\proggraming\\html serializer project\\htmlserializerproject\\htmlserializerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ABDF4E-0E4F-4110-9DC6-1F050F780A50}|HtmlSerializerProject\\HtmlSerializerProject.csproj|solutionrelative:htmlserializerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ABDF4E-0E4F-4110-9DC6-1F050F780A50}|HtmlSerializerProject\\HtmlSerializerProject.csproj|C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\htmlserializerproject\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ABDF4E-0E4F-4110-9DC6-1F050F780A50}|HtmlSerializerProject\\HtmlSerializerProject.csproj|solutionrelative:htmlserializerproject\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ABDF4E-0E4F-4110-9DC6-1F050F780A50}|HtmlSerializerProject\\HtmlSerializerProject.csproj|C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\htmlserializerproject\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ABDF4E-0E4F-4110-9DC6-1F050F780A50}|HtmlSerializerProject\\HtmlSerializerProject.csproj|solutionrelative:htmlserializerproject\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ABDF4E-0E4F-4110-9DC6-1F050F780A50}|HtmlSerializerProject\\HtmlSerializerProject.csproj|C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\htmlserializerproject\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ABDF4E-0E4F-4110-9DC6-1F050F780A50}|HtmlSerializerProject\\HtmlSerializerProject.csproj|solutionrelative:htmlserializerproject\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HtmlElement.cs",
+              "DocumentMoniker": "C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\HtmlSerializerProject\\HtmlElement.cs",
+              "RelativeDocumentMoniker": "HtmlSerializerProject\\HtmlElement.cs",
+              "ToolTip": "C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\HtmlSerializerProject\\HtmlElement.cs",
+              "RelativeToolTip": "HtmlSerializerProject\\HtmlElement.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:49:21.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attribute.cs",
+              "DocumentMoniker": "C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\HtmlSerializerProject\\Attribute.cs",
+              "RelativeDocumentMoniker": "HtmlSerializerProject\\Attribute.cs",
+              "ToolTip": "C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\HtmlSerializerProject\\Attribute.cs",
+              "RelativeToolTip": "HtmlSerializerProject\\Attribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:13:46.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\HtmlSerializerProject\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "HtmlSerializerProject\\HtmlHelper.cs",
+              "ToolTip": "C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\HtmlSerializerProject\\HtmlHelper.cs",
+              "RelativeToolTip": "HtmlSerializerProject\\HtmlHelper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:50:34.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\HtmlSerializerProject\\Program.cs",
+              "RelativeDocumentMoniker": "HtmlSerializerProject\\Program.cs",
+              "ToolTip": "C:\\Shira\\proggraming\\html serializer project\\HtmlSerializerProject\\HtmlSerializerProject\\Program.cs",
+              "RelativeToolTip": "HtmlSerializerProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:49:23.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
